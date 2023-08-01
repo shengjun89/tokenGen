@@ -12,7 +12,11 @@
 
 ![tokenGen](tokenGen.gif)
 
-
+# 功能介绍
+1. 远程抓取token样式表文件；
+2. 切换抓取的json节点；
+3. 允许行列翻转；
+4. 根据调色盘对比度区分显示文本颜色。
 
 
 ```javascript
